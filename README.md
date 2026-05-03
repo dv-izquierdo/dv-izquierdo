@@ -50,18 +50,18 @@
   <tr>
     <td width="50%" align="center">
       <!-- Sustituye URL_IMAGEN_1 por el enlace a una imagen de tu dashboard o gráfica -->
-      <a href="URL_DE_TU_REPOSITORIO_1">
-        <img src="https://via.placeholder.com/600x350/150458/FFFFFF?text=Global+Power+Plant+EDA" alt="Global Power Plant EDA" width="100%" style="border-radius: 8px;">
+      <a href="https://github.com/dv-izquierdo/Global_Power_Plant_Database">
+        <img src="Global_Power_Plant.png" alt="Global Power Plant EDA" width="100%" style="border-radius: 8px;">
       </a>
       <br><br>
       <b>⚡ Global Power Plant EDA</b>
       <br>
-      <i>Python | Pandas | Matplotlib | Seaborn</i>[cite: 3]
+      <i>Python | Pandas | Matplotlib | Seaborn</i>
       <br><br>
-      Análisis profundo del panorama energético global. Limpieza de datos y visualización para extraer insights sobre tendencias de consumo y producción mundial[cite: 3].
+      Análisis profundo del panorama energético global. Limpieza de datos y visualización para extraer insights sobre tendencias de consumo y producción mundial.
       <br><br>
       <a href="URL_DE_TU_REPOSITORIO_1">
-        <img src="https://img.shields.io/badge/Ver_Código-2b3137?style=flat-square&logo=github&logoColor=white" alt="Ver Código"/>
+        <img src="Spain_Wildfires.png" alt="Ver Código"/>
       </a>
     </td>
     <td width="50%" align="center">
@@ -72,11 +72,11 @@
       <br><br>
       <b>🔥 Statistical Analysis on Spain Wildfires</b>
       <br>
-      <i>Python | Scikit-Learn | Pandas</i>[cite: 3]
+      <i>Python | Scikit-Learn | Pandas</i>
       <br><br>
-      Análisis de distribuciones, correlaciones y entrenamiento de modelos de regresión de Machine Learning para la predicción de incendios forestales en España[cite: 3].
+      Análisis de distribuciones, correlaciones y entrenamiento de modelos de regresión de Machine Learning para la predicción de incendios forestales en España.
       <br><br>
-      <a href="URL_DE_TU_REPOSITORIO_2">
+      <a href="https://github.com/dv-izquierdo/Evolve-estadistica-david-izquierdo/blob/main/practica_final_izquierdo_garcia_david/Respuestas.md">
         <img src="https://img.shields.io/badge/Ver_Código-2b3137?style=flat-square&logo=github&logoColor=white" alt="Ver Código"/>
       </a>
     </td>
