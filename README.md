@@ -49,7 +49,7 @@
 <table align="center" style="width: 100%;">
   <tr>
     <td width="50%" align="center">
-      <!-- Sustituye URL_IMAGEN_1 por el enlace a una imagen de tu dashboard o gráfica -->
+      <!-- Imagen y enlace global power plant -->
       <a href="https://github.com/dv-izquierdo/Global_Power_Plant_Database">
         <img src="Global_Power_Plant.png" alt="Global Power Plant EDA" width="100%" style="border-radius: 8px;">
       </a>
@@ -60,14 +60,14 @@
       <br><br>
       Análisis profundo del panorama energético global. Limpieza de datos y visualización para extraer insights sobre tendencias de consumo y producción mundial.
       <br><br>
-      <a href="URL_DE_TU_REPOSITORIO_1">
-        <img src="Spain_Wildfires.png" alt="Ver Código"/>
+      <a href="[URL_DE_TU_REPOSITORIO_1](https://github.com/dv-izquierdo/Global_Power_Plant_Database)">
+        <img src="https://img.shields.io/badge/Ver_Código-2b3137?style=flat-square&logo=github&logoColor=white" alt="Ver Código"/>
       </a>
     </td>
     <td width="50%" align="center">
-      <!-- Sustituye URL_IMAGEN_2 por el enlace a una imagen de tu modelo o gráfica -->
-      <a href="URL_DE_TU_REPOSITORIO_2">
-        <img src="https://via.placeholder.com/600x350/D14836/FFFFFF?text=Prediccion+de+Incendios" alt="Spain Wildfires Analysis" width="100%" style="border-radius: 8px;">
+      <!-- Imagen y enlace global power plant -->
+      <a href="[https://github.com/dv-izquierdo/Global_Power_Plant_Database](https://github.com/dv-izquierdo/Evolve-estadistica-david-izquierdo/blob/main/practica_final_izquierdo_garcia_david/Respuestas.md)">
+        <img src="Spain_Wildfires.png" alt="Global Power Plant EDA" width="100%" style="border-radius: 8px;">
       </a>
       <br><br>
       <b>🔥 Statistical Analysis on Spain Wildfires</b>
@@ -84,10 +84,3 @@
 </table>
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dv-izquierdo&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de David" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-izquierdo&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
