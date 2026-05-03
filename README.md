@@ -3,7 +3,7 @@
 <h3 align="center">Físico | Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <i>"Transformando la complejidad del universo y los datos en insights de negocio accionables."</i>
+  <i>"Transformando la complejidad del universo y los datos en insights de negocio."</i>
 </p>
 
 <p align="center">
