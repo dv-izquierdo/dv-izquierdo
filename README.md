@@ -60,7 +60,7 @@
       <br><br>
       Análisis profundo del panorama energético global. Limpieza de datos y visualización para extraer insights sobre tendencias de consumo y producción mundial.
       <br><br>
-      <a href="[URL_DE_TU_REPOSITORIO_1](https://github.com/dv-izquierdo/Global_Power_Plant_Database)">
+      <a href="https://github.com/dv-izquierdo/Global_Power_Plant_Database">
         <img src="https://img.shields.io/badge/Ver_Código-2b3137?style=flat-square&logo=github&logoColor=white" alt="Ver Código"/>
       </a>
     </td>
